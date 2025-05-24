@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Automated Dino Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="light-mode">
+  <h1>🦖 Automated Dino Game</h1>
+
+  <div id="controls">
+    <button id="startBtn">▶ Start Game</button>
+    <button id="themeToggle">🌙 Toggle Dark Mode</button>
+  </div>
+
+  <div id="game">
+    <div id="dino"></div>
+    <div id="ground"></div>
+    <div id="score">Score: 0</div>
+  </div>
+
+  <!-- Game Over Modal -->
+  <div id="gameOverModal" class="hidden">
+    <div class="modal-content">
+      <h2>💀 Game Over!</h2>
+      <p id="finalScore">Final Score: 0</p>
+      <button id="restartBtn">🔁 Play Again</button>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>Made in India with ❤️ by <strong>Sukhi</strong></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
