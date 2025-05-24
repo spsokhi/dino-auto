@@ -4,6 +4,8 @@ A simple, automated version of the classic Chrome Dino game built using **HTML**
 
 This game features an AI that automatically jumps over obstacles, increasing difficulty, dark/light mode toggle, and a polished UI.
 
+Live Demo - https://spsokhi.github.io/dino-auto/
+
 ---
 
 ## 💡 Features
