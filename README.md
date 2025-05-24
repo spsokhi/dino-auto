@@ -34,6 +34,4 @@ No server or backend required — it runs entirely in the browser.
 
 ---
 
-## ❤️ Made by Sukhi
-
 > "Made in India with ❤️ by Sukhi"
